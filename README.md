@@ -1,4 +1,4 @@
-# KCNQ Rescue Prioritization Pipeline
+# KCNQ Tractability Pipeline
 
 Computational pipeline for family-wide prioritization of potentially rescuable missense variants in `KCNQ1-5`, with structural annotation, composite pathogenicity scoring, tractability-aware ranking, wild-type docking, and benchmarking against published functional datasets.
 
