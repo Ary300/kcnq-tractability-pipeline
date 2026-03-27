@@ -1,0 +1,2 @@
+gene,benchmark,clinical_variants,benchmark_variants,overlap_variants,spearman_rho_rescue_vs_current_rel_wt,spearman_p_value
+KCNQ2,bhatt,1025,72,65,-0.5398601398601398,3.467141479932598e-06

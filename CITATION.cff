@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the software."
+title: "KCNQ Rescue Prioritization Pipeline"
+type: software
+authors:
+  - family-names: "Das"
+    given-names: "Aryav"
+version: "0.1.0"
+date-released: 2026-03-26
+license: "MIT"
+abstract: "Family-wide computational prioritization pipeline for structurally and mechanistically tractable rescue candidates across KCNQ1-KCNQ5."
+keywords:
+  - "KCNQ"
+  - "ion-channel"
+  - "variant-prioritization"
+  - "precision-pharmacology"
+  - "structural-bioinformatics"

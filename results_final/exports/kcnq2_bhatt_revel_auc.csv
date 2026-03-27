@@ -1,0 +1,13 @@
+endpoint,model_name,score_column,n_variants_used,auc
+reaches_wt_current,alphamissense_only,alphamissense_score,47,0.9111111111111111
+reaches_wt_current,rescue_priority_only,rescue_priority_score,47,0.7222222222222222
+reaches_wt_current,revel_only,revel_score,47,0.48888888888888893
+reaches_wt_current,structural_only,structural_opportunity_score,47,0.1
+responsive_any,revel_only,revel_score,58,0.9922630560928433
+responsive_any,alphamissense_only,alphamissense_score,58,0.9864603481624759
+responsive_any,structural_only,structural_opportunity_score,58,0.9555125725338491
+responsive_any,rescue_priority_only,rescue_priority_score,58,0.9206963249516441
+responsive_current50,revel_only,revel_score,58,0.9675213675213674
+responsive_current50,alphamissense_only,alphamissense_score,58,0.9495726495726496
+responsive_current50,structural_only,structural_opportunity_score,58,0.9128205128205129
+responsive_current50,rescue_priority_only,rescue_priority_score,58,0.8581196581196581

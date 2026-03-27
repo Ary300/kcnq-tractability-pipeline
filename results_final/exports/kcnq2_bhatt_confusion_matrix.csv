@@ -1,0 +1,9 @@
+endpoint,model_name,threshold,actual_class,predicted_class,count
+responsive_any,rescue_priority_score,0.5,positive,positive,39
+responsive_any,rescue_priority_score,0.5,positive,negative,14
+responsive_any,rescue_priority_score,0.5,negative,positive,1
+responsive_any,rescue_priority_score,0.5,negative,negative,11
+responsive_any,alphamissense_score,0.75,positive,positive,50
+responsive_any,alphamissense_score,0.75,positive,negative,3
+responsive_any,alphamissense_score,0.75,negative,positive,1
+responsive_any,alphamissense_score,0.75,negative,negative,11

@@ -1,0 +1,11 @@
+gene,protein_change,candidate_drug,dG_WT,docking_wt_score,note
+KCNQ2,T276I,Retigabine (Ezogabine),-5.585,0.39625,ok
+KCNQ2,A306V,Retigabine (Ezogabine),-5.6,0.3999999999999999,ok
+KCNQ2,A306P,Retigabine (Ezogabine),-5.588,0.397,ok
+KCNQ1,L273F,Mexiletine,-4.903,0.2257499999999999,ok
+KCNQ1,L273I,Mexiletine,-4.875,0.21875,ok
+KCNQ1,G306R,Mexiletine,-4.859,0.21475,ok
+KCNQ3,I317T,Retigabine (Ezogabine),-6.022,0.5055000000000001,ok
+KCNQ4,L281S,Retigabine (Ezogabine),-6.529,0.63225,ok
+KCNQ4,T280K,Retigabine (Ezogabine),-6.447,0.61175,ok
+KCNQ5,V145G,Retigabine (Ezogabine),-4.804,0.20100000000000007,ok

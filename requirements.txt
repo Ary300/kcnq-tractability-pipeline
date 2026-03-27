@@ -1,0 +1,13 @@
+biopython
+matplotlib
+numpy
+openpyxl
+pandas
+requests
+scikit-learn
+scipy
+seaborn
+statsmodels
+umap-learn
+
+# RDKit and external docking tools are installed separately.

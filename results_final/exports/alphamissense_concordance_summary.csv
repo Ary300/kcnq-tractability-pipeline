@@ -1,0 +1,2 @@
+n_variants,alphamissense_high_cutoff,structural_high_cutoff,spearman_rho,spearman_p_value,pearson_r,pearson_p_value,n_pathogenic_and_druggable,n_structurally_druggable_but_lower_am,n_pathogenic_but_structurally_peripheral,n_background_low_low
+3212,0.75,0.7,0.7398662096580442,0.0,0.7067196104091418,0.0,210,1,1178,1823

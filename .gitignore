@@ -1,0 +1,16 @@
+.DS_Store
+.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+archive/internal_notes/
+
+pipeline_data/raw/
+pipeline_data/cache/
+pipeline_data/interim/
+pipeline_data/docking/
+
+results_final/.DS_Store

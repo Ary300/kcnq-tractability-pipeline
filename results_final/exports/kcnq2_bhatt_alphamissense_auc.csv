@@ -1,0 +1,10 @@
+model_name,score_column,endpoint,n_variants_used,auc
+rescue_priority_only,rescue_priority_score,reaches_wt_current,53,0.6541666666666666
+alphamissense_only,alphamissense_score,reaches_wt_current,53,0.6416666666666667
+combined_mean_z,combined_mean_z,reaches_wt_current,53,0.6291666666666667
+alphamissense_only,alphamissense_score,responsive_any,65,0.9827044025157233
+combined_mean_z,combined_mean_z,responsive_any,65,0.9669811320754718
+rescue_priority_only,rescue_priority_score,responsive_any,65,0.8726415094339622
+alphamissense_only,alphamissense_score,responsive_current50,65,0.9418767507002801
+combined_mean_z,combined_mean_z,responsive_current50,65,0.9005602240896359
+rescue_priority_only,rescue_priority_score,responsive_current50,65,0.8249299719887956

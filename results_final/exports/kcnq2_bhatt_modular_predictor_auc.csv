@@ -1,0 +1,16 @@
+endpoint,model_name,score_column,n_variants_used,auc,pr_auc
+reaches_wt_current,revel_x_tractability,revel_x_tractability,47,0.9888888888888889,0.9995169082125605
+reaches_wt_current,am_x_tractability,am_x_tractability,53,0.7416666666666667,0.959401569453202
+reaches_wt_current,rescue_priority_only,rescue_priority_score,53,0.6541666666666666,0.9502677260037742
+reaches_wt_current,alphamissense_only,alphamissense_score,53,0.6416666666666667,0.9465992070673601
+reaches_wt_current,revel_only,revel_score,47,0.48888888888888893,0.9537950699288871
+responsive_any,revel_only,revel_score,58,0.9922630560928433,0.9981686961332977
+responsive_any,alphamissense_only,alphamissense_score,65,0.9827044025157233,0.9961515534193344
+responsive_any,am_x_tractability,am_x_tractability,65,0.9732704402515724,0.9940359262536431
+responsive_any,revel_x_tractability,revel_x_tractability,58,0.9516441005802707,0.9866653837501557
+responsive_any,rescue_priority_only,rescue_priority_score,65,0.8726415094339622,0.9671933810326956
+responsive_current50,revel_only,revel_score,58,0.9675213675213674,0.9903898103663294
+responsive_current50,alphamissense_only,alphamissense_score,65,0.9418767507002801,0.9825865249062044
+responsive_current50,am_x_tractability,am_x_tractability,65,0.9089635854341735,0.9701489394852465
+responsive_current50,revel_x_tractability,revel_x_tractability,58,0.8923076923076922,0.9640387370691065
+responsive_current50,rescue_priority_only,rescue_priority_score,65,0.8249299719887956,0.9460886952811295

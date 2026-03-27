@@ -1,0 +1,11 @@
+Rank,Gene,Variant,Residue,Structural Region,ClinVar Significance,Disease/Trait,Pocket Distance (Å),Pocket Proximity (norm),Pathogenicity Score,Region Drug Score,Rarity Score,Rule-Based Score,WT Docking ΔG (kcal/mol),WT Docking Score,Final Rescue Score,Rescue Tier,Candidate Drug,Drug Phase,Structural Coords Available,Source
+1,KCNQ3,G320R,320.0,Ligand-Binding Pocket,Pathogenic,Benign neonatal seizures,16.9645,0.9724,1.0,1.0,1.0,0.9917,-6.817,0.7042,0.9342,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+2,KCNQ4,L281S,281.0,Pore/Selectivity Filter,Pathogenic,not provided,7.8873,1.0,1.0,0.9,1.0,0.98,-6.423,0.6058,0.9052,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+3,KCNQ2,P308L,308.0,Ligand-Binding Pocket,Pathogenic/Likely pathogenic,"Developmental and epileptic encephalopathy, 7",7.0087,0.9894,0.95,1.0,1.0,0.9793,-6.215,0.5538,0.8942,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+4,KCNQ2,L307P,307.0,Ligand-Binding Pocket,Pathogenic/Likely pathogenic,KCNQ2-related disorder,7.5215,0.9787,0.95,1.0,1.0,0.9761,-6.226,0.5565,0.8922,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+5,KCNQ2,S303F,303.0,Ligand-Binding Pocket,Pathogenic,not provided,9.2757,0.9255,1.0,1.0,1.0,0.9777,-6.199,0.5498,0.8921,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+6,KCNQ3,M237K,237.0,Ligand-Binding Pocket,Pathogenic,Benign neonatal seizures,20.8111,0.9483,1.0,1.0,1.0,0.9845,,0.5,0.8876,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+7,KCNQ4,G285C,285.0,Pore/Selectivity Filter,Pathogenic,not provided,12.4173,0.9142,1.0,0.9,1.0,0.9543,-6.422,0.6055,0.8845,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+8,KCNQ4,G285S,285.0,Pore/Selectivity Filter,Pathogenic,Nonsyndromic genetic hearing loss,12.4173,0.9142,1.0,0.9,1.0,0.9543,-6.404,0.601,0.8836,HIGH,Retigabine (Ezogabine),4,True,ClinVar
+9,KCNQ1,L273I,273.0,Ligand-Binding Pocket,Likely pathogenic,Long QT syndrome,4.5916,1.0,0.8,1.0,1.0,0.93,-6.408,0.602,0.8644,HIGH,ML277,1,True,ClinVar
+10,KCNQ3,W309S,309.0,Ligand-Binding Pocket,Likely pathogenic,Seizure,13.1186,0.9966,0.8,1.0,1.0,0.929,,0.5,0.8432,MODERATE,Retigabine (Ezogabine),4,True,ClinVar

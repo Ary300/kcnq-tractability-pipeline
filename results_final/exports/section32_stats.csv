@@ -1,0 +1,2 @@
+comparison,n_plp,n_vus,mannwhitney_u,p_value,cohens_d,median_difference,median_diff_ci_lo,median_diff_ci_hi
+P/LP vs VUS pocket distance,537,1136,129855.0,2.1542265846908947e-80,-1.066443315113486,-25.259473673206465,-28.171816795559717,-22.211611386811864
